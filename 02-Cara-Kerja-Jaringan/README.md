@@ -31,5 +31,5 @@
   * **Definisi**: Komunikasi dasar dalam arsitektur jaringan di mana perangkat pengguna meminta data dan server meresponnya.
   * **Fungsi**: Mengatur interaksi/komunikasi antara aplikasi pengguna dengan komputer pusat yang menyediakan data.
   * **Contoh**: 
-    * **Request**: Pengguna mengetik alamat situs web di peramban.
-    * **Response**: Server mengirimkan data halaman web tersebut kembali ke peramban pengguna untuk ditampilkan.
+    * **Request**: Pengguna mengetik alamat situs web di browser.
+    * **Response**: Server mengirimkan data halaman web tersebut kembali ke browser pengguna untuk ditampilkan.
