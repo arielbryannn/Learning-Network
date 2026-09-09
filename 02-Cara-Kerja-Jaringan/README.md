@@ -2,7 +2,7 @@
 
 ## 📌 Alur Dasar & Komponen Internet
 
-* **The Internet Definition**
+* **Definisi Jaringan**
   * **Definisi**: Jaringan global berskala besar yang saling terhubung antar jutaan komputer di seluruh dunia menggunakan standar protokol komunikasi yang seragam (TCP/IP).
   * **Fungsi**: Memfasilitasi pertukaran informasi dan komunikasi jarak jauh secara instan lintas batas negara.
   * **Contoh**: Mengakses situs web, mengirim surat elektronik (email), atau menggunakan layanan penyimpanan awan (*cloud storage*).
